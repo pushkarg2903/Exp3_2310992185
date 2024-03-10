@@ -45,7 +45,7 @@ const songs = [{
 },
 {
     id: "9",
-    songName: `Dilber <br><div class="subtitle">Satyameva Jayate</div>`,
+    songName: `Dilbar <br><div class="subtitle">Satyameva Jayate</div>`,
     poster: "img/9.jpg",
 },
 {
@@ -102,7 +102,18 @@ const songs = [{
     id: "20",
     songName: `Dunny 82K <br><div class="subtitle">Ap Dhillon, Gurinder Gill, Shinda Kahlon</div>`,
     poster: "img/20.jpg",
+},
+{
+    id: "21",
+    songName: `Ae Dil Hai Mushkil <br><div class="subtitle">Pritam, Arijit Singh</div>`,
+    poster: "img/21.png",
+},
+{
+    id: "22",
+    songName: `Janam Janam <br><div class="subtitle">Pritam, Arijit Singh</div>`,
+    poster: "img/22.png",
 }
+
 ]
 
 
